@@ -24,7 +24,7 @@ const CONFIG = {
   JSONBIN_BIN_ID: "6aa8ffefac6210605acf3d3f",
   JSONBIN_API_KEY: "$2a$10$nou5c3yZntdxwBqnGEEOvuCkZpg9GT4CfSp1IXgNhJpKQzhxI8NYO",
   WEDDING_DATE: "2026-09-30T14:00:00+08:00", // Pemberkatan Nikah, WITA (UTC+8)
-  GALLERY_COUNT: 10
+  GALLERY_COUNT: 12
 };
 
 const JSONBIN_BASE = `https://api.jsonbin.io/v3/b/${CONFIG.JSONBIN_BIN_ID}`;
