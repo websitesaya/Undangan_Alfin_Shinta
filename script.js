@@ -221,7 +221,7 @@ function initCountdown(){
 }
 
 /* ---------------------------------------------------------
-   Galeri Foto1.jpg .. Foto10.jpg + lightbox
+   Galeri Foto1.jpg .. Foto12.jpg + lightbox
    --------------------------------------------------------- */
 let galleryImages = [];
 let lbIndex = 0;
